@@ -2,12 +2,11 @@ The example shows how to get started using Banuba [Face AR SDK](https://docs.ban
   
 # Getting Started
 
-1. Get the Banuba SDK client token. Please fill in our form on [form on banuba.com](https://www.banuba.com/face-filters-sdk) website, or contact us via [info@banuba.com](mailto:info@banuba.com).
-2. Install [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) if you don't have it.
-3. Run `pod install` for this project in order to install BanubaSdk, AgoraRtcEngine_iOS
-4. Visit agora.io to sign up and get token, app and channel ID
-5. Copy and Paste your banuba and agora token, app and chanel ID into appropriate section of `videocall-ios-swift/videocall-ios-swift/TokenService.swift`
-6. Open the project in xCode and run the example.
+1. Install [CocoaPods](https://guides.cocoapods.org/using/getting-started.html) if you don't have it.
+2. Run `pod install` for this project in order to install BanubaSdk, AgoraRtcEngine_iOS
+3. Visit agora.io to sign up and get token, app and channel ID
+4. Copy and Paste your agora token, app and chanel ID into appropriate section of `videocall-ios-swift/videocall-ios-swift/TokenService.swift`
+5. Open the project in xCode and run the example.
 
 # Contributing
 
